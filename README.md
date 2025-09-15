@@ -5,7 +5,7 @@ This repository contains laboratory works for the "Information Systems Design" c
 ## Repository Structure
 
 ```
-├── lab1/           # Laboratory Work #1 - OOP Basics
+├── lab1/           # Laboratory Work #1
 │   ├── diagrams/   # Diagrams (ER model, class diagram)
 │   ├── src/        # Source code
 │   └── README.md   # Laboratory Work #1 description
@@ -14,7 +14,7 @@ This repository contains laboratory works for the "Information Systems Design" c
 
 ## Laboratory Works
 
-### [Laboratory Work #1 - OOP Basics](./lab1/)
+### [Laboratory Work #1](./lab1/)
 **Topic**: Hotel Management System
 
 **Tech Stack**: Go 1.19+, Mermaid (diagrams)
